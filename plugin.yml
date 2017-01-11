@@ -1,0 +1,10 @@
+name: MyLandClaim
+main: com.blendycat.landclaim.LandClaim
+version: 1.0
+commands:
+  claim:
+    description: claims land
+    usage: /<command>
+  unclaim:
+    description: unclaims land
+    usage: /<command>
