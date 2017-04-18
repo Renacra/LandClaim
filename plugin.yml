@@ -4,7 +4,7 @@ version: 1.0
 commands:
   claim:
     description: claims land
-    usage: /<command>
+    usage: /claim
   unclaim:
     description: unclaims land
-    usage: /<command>
+    usage: /unclaim
